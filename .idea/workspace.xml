@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2f6f1139-d1ff-4eb4-8c08-c3a87417bde2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSweeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSweeper.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaSweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSweeper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sweeper/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sweeper/Box.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager">
@@ -105,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678793741170</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial images">
+      <created>1678799345689</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678799345689</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Cast Image">
+      <created>1678799547186</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678799547186</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,6 +132,8 @@
     <MESSAGE value="Add resource" />
     <MESSAGE value="add Image on Panel" />
     <MESSAGE value="add enum.BOX" />
-    <option name="LAST_COMMIT_MESSAGE" value="add enum.BOX" />
+    <MESSAGE value="Initial images" />
+    <MESSAGE value="Cast Image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cast Image" />
   </component>
 </project>

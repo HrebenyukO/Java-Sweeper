@@ -3,6 +3,7 @@ import java.awt.*;
 import java.util.Locale;
 
 import Sweeper.Box;
+import Sweeper.Coord;
 
 public class JavaSweeper extends JFrame {
 
@@ -28,8 +29,9 @@ public class JavaSweeper extends JFrame {
             protected void paintComponent(Graphics g) {
                 super.paintComponent(g);
                 for (Box box : Box.values()) {
+                    Coord coord = new Coord(box.ordinal(), 0);
                     g.drawImage((Image) box.image,
-                            box.ordinal() * IMAGE_SIZE, 0, this);
+                            coord.x*IMAGE_SIZE, coord.y*IMAGE_SIZE, this);
                 }
             }
 

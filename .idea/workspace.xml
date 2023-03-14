@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f6f1139-d1ff-4eb4-8c08-c3a87417bde2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Sweeper/Box.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaSweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSweeper.java" afterDir="false" />
     </list>
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -89,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678790435499</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Image on Panel">
+      <created>1678791689833</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678791689833</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -97,6 +106,7 @@
     <MESSAGE value="Initial Panel" />
     <MESSAGE value="Add paintComponent" />
     <MESSAGE value="Add resource" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add resource" />
+    <MESSAGE value="add Image on Panel" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Image on Panel" />
   </component>
 </project>

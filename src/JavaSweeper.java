@@ -28,7 +28,7 @@ public class JavaSweeper extends JFrame {
             protected void paintComponent(Graphics g) {
                 super.paintComponent(g);
                 for (Box box : Box.values()) {
-                    g.drawImage(box.image,
+                    g.drawImage((Image) box.image,
                             box.ordinal() * IMAGE_SIZE, 0, this);
                 }
             }

@@ -10,10 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f6f1139-d1ff-4eb4-8c08-c3a87417bde2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sweeper/Matrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaSweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSweeper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sweeper/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sweeper/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sweeper/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sweeper/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sweeper/Ranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sweeper/Ranges.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679162591089</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="create Matrix">
+      <created>1679163349463</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679163349463</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +173,7 @@
     <MESSAGE value="Create .jar" />
     <MESSAGE value="add class Coord" />
     <MESSAGE value="create class Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="create class Game" />
+    <MESSAGE value="create Matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="create Matrix" />
   </component>
 </project>

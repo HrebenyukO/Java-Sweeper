@@ -25,4 +25,9 @@ public class Ranges {
     public static Coord getSize() {
         return size;
     }
+
+    public static boolean isRange(Coord coord) {
+        return coord.x >= 0 && coord.x < size.x &&
+                coord.y >= 0 && coord.y < size.y;
+    }
 }

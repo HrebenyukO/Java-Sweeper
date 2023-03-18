@@ -10,10 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f6f1139-d1ff-4eb4-8c08-c3a87417bde2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sweeper/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sweeper/Ranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sweeper/Matrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaSweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSweeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sweeper/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sweeper/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678811375994</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="create class Game">
+      <created>1679162591088</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679162591089</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,6 +164,7 @@
     <MESSAGE value="Cast Image" />
     <MESSAGE value="Create .jar" />
     <MESSAGE value="add class Coord" />
-    <option name="LAST_COMMIT_MESSAGE" value="add class Coord" />
+    <MESSAGE value="create class Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="create class Game" />
   </component>
 </project>
